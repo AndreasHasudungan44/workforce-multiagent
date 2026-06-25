@@ -1,0 +1,4 @@
+camel-ai>=0.2.90
+pandas>=2.0
+pyarrow>=14.0
+scikit-learn>=1.3
