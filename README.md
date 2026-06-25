@@ -1,8 +1,8 @@
-# CAMEL Workforce 
+# Multi - Agent Integration for Data and Document treatment
 
 This is an adapted internal project for public use, functionalities are reduced and limited to provide generalized task-specific uses
 
-A working CAMEL Workforce-style pipelin running entirely on
+This is a working CAMEL Workforce-style pipeline running entirely on
 Ollama/VLLM. Built as a validated architecture to
 adopt camel workforce in use for document retrieval analysis and labelization
 
